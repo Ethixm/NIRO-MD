@@ -13,7 +13,7 @@ try{
 let dec = `*👋 Hello ${pushname}*
 
 *╭───────────◉◉►*
-*│Hey, I'm NIRO-MD,
+│*Hey, I'm NIRO-MD,*
 *│I'm always here for help you.🌝 Love │you forever ♥️*
 *╰───────────◉◉►*
 
@@ -62,7 +62,7 @@ let dec = `*👋 Hello ${pushname}*
 *│►.setwelcome*
 *│►.setgoodbye*
 
-*©𝗡𝗜𝗥𝗢 𝗠𝗗 🌝`
+ *©ᴘᴏᴡᴇʀᴅ ʙʏ ɴɪʀᴏ-ᴍᴅ*`
 await conn.sendMessage(from,{image:{url: `https://telegra.ph/file/c8858afdce80eeb01b47e.jpg`},caption:dec},{quoted:mek});
 
 }catch(e){
