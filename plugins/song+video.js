@@ -12,7 +12,7 @@ cmd({
 async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
 try{
 
-if(!q) return reply("❌Please give me url or titel")
+if(!q) return reply("*❌Please give me url or titel*")
 const search = await yts(q)
 const deta = search.videos[0];
 const url = deta.url 
@@ -20,14 +20,14 @@ const url = deta.url
 let desc= `
  *✦🔮 𝐍𝐈𝐑𝐎-𝐌𝐃 ● AUDIO-DOWNLOADER🎶 ✿*
 |__________________________
-| 🔮title : ${deta.title}
-| 🔮description : ${deta.description}
-| 🔮time : ${deta.timestamp}
-| 🔮ago : ${deta.ago}
-| 🔮views : ${deta.views}
+| 🔮 *title* : *${deta.title}*
+| 🔮 *description* : *${deta.description}*
+| 🔮 *time* : *${deta.timestamp}*
+| 🔮 *ago* : *${deta.ago}*
+| 🔮 *views* : *${deta.views}*
 |__________________________
 
-POWERED by *🔮𝗡𝗜𝗥𝗢-𝗠𝗗 👨‍💻*
+POWERED by *©ᴘᴏᴡᴇʀᴅ ʙʏ ɴɪʀᴏ-ᴍᴅ*
 
 `
 
@@ -70,14 +70,14 @@ const url = deta.url
 let desc= `
 *✦ 🔮𝐍𝐈𝐑𝐎-𝐌𝐃 𝐌𝐃 ● VIDEO-DOWNLOADER📽️ ✿*
 |__________________________
-| 🔮title : ${deta.title}
-| 🔮description : ${deta.description}
-| 🔮time : ${deta.timestamp}
-| 🔮ago : ${deta.ago}
-| 🔮 views : ${deta.views}
+| 🔮 *title* : *${deta.title}*
+| 🔮 *description* : *${deta.description}*
+| 🔮 *time* : *${deta.timestamp}*
+| 🔮 *ago* : *${deta.ago}*
+| 🔮 *views* : *${deta.views}*
 |__________________________
 
-POWERED by *🔮 𝗡𝗜𝗥𝗢-𝗠𝗗 👨‍💻*
+POWERED by *©ᴘᴏᴡᴇʀᴅ ʙʏ ɴɪʀᴏ-ᴍᴅ*
 
 `
 
