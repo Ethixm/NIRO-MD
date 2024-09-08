@@ -13,7 +13,7 @@ try{
 let dec = `*👋 Hello ${pushname}*
 
 *╭───────────◉◉►*
-│Hey, I'm NIRO-MD,
+│*Hey,* *I'm NIRO-MD*,
 *│I'm always here for help you.🌝 Love │you forever ♥️*
 *╰───────────◉◉►*
 
