@@ -70,11 +70,11 @@ const url = deta.url
 let desc= `
 *📽️𝗡𝗜𝗥𝗢-𝗠𝗗   𝗩𝗜𝗗𝗘𝗢-𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗥📽️*
 |__________________________
-| 🔮 *title* : *${deta.title}*
-| 🔮 *description* : *${deta.description}*
-| 🔮 *time* : *${deta.timestamp}*
-| 🔮 *ago* : *${deta.ago}*
-| 🔮 *views* : *${deta.views}*
+| ℹ️ *title* : *${deta.title}*
+| 📋 *description* : *${deta.description}*
+| 🕘 *time* : *${deta.timestamp}*
+| 📌 *ago* : *${deta.ago}*
+| 📉 *views* : *${deta.views}*
 |__________________________
 
 *©ᴘᴏᴡᴇʀᴅ ʙʏ ɴɪʀᴏ-ᴍᴅ*
