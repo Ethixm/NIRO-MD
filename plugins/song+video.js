@@ -18,16 +18,16 @@ const deta = search.videos[0];
 const url = deta.url 
 
 let desc= `
- *✦🔮 𝐍𝐈𝐑𝐎-𝐌𝐃 ● AUDIO-DOWNLOADER🎶 ✿*
+ *🎶𝗡𝗜𝗥𝗢-𝗠𝗗   𝗔𝗨𝗗𝗜𝗢-𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗥🎶*
 |__________________________
-| 🔮 *title* : *${deta.title}*
-| 🔮 *description* : *${deta.description}*
-| 🔮 *time* : *${deta.timestamp}*
-| 🔮 *ago* : *${deta.ago}*
-| 🔮 *views* : *${deta.views}*
+| ℹ️ *title* : *${deta.title}*
+| 📋 *description* : *${deta.description}*
+| 🕘 *time* : *${deta.timestamp}*
+| 📌 *ago* : *${deta.ago}*
+| 📉 *views* : *${deta.views}*
 |__________________________
 
-POWERED by *©ᴘᴏᴡᴇʀᴅ ʙʏ ɴɪʀᴏ-ᴍᴅ*
+*©ᴘᴏᴡᴇʀᴅ ʙʏ ɴɪʀᴏ-ᴍᴅ*
 
 `
 
@@ -68,7 +68,7 @@ const deta = search.videos[0];
 const url = deta.url 
 
 let desc= `
-*✦ 🔮𝐍𝐈𝐑𝐎-𝐌𝐃 𝐌𝐃 ● VIDEO-DOWNLOADER📽️ ✿*
+*📽️𝗡𝗜𝗥𝗢-𝗠𝗗   𝗩𝗜𝗗𝗘𝗢-𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗥📽️*
 |__________________________
 | 🔮 *title* : *${deta.title}*
 | 🔮 *description* : *${deta.description}*
@@ -77,7 +77,7 @@ let desc= `
 | 🔮 *views* : *${deta.views}*
 |__________________________
 
-POWERED by *©ᴘᴏᴡᴇʀᴅ ʙʏ ɴɪʀᴏ-ᴍᴅ*
+*©ᴘᴏᴡᴇʀᴅ ʙʏ ɴɪʀᴏ-ᴍᴅ*
 
 `
 
